@@ -19,3 +19,4 @@ This repo deploys a simple Nginx web server using Terraform and Docker.
 7. **Destroy:** `terraform destroy`
 
 **EC2 Deployment:** Docker must be running on EC2.
+![image](https://github.com/user-attachments/assets/408a67b5-3b3e-4504-8f7d-77c4257d2e33)
